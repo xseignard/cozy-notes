@@ -5501,10 +5501,10 @@ cozy-doctypes@^1.72.2:
     lodash "4.17.15"
     prop-types "^15.7.2"
 
-cozy-flags@2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/cozy-flags/-/cozy-flags-2.1.0.tgz#46eda64317da44f357d37241cc160189b83878c9"
-  integrity sha512-oESKiuBzcJxrnH4Md/qWoeo3oteZNIjPzzugYU8OG6lXtbxcP5fvoFe26M2B7YAw3PDIIQuLicukao8g+yc+0g==
+cozy-flags@2.3.4:
+  version "2.3.4"
+  resolved "https://registry.yarnpkg.com/cozy-flags/-/cozy-flags-2.3.4.tgz#a2175fd711529e93175029e0d20e376142035546"
+  integrity sha512-JE8oFfHCeZsHTp9L0xEYtEtNwfTl2Ik3Hr7YaFsjd3H/6YYucNchVNp8FlmEIe3cyA1DWhv/jw/oSTYuSnSo9A==
   dependencies:
     microee "^0.0.6"
 
